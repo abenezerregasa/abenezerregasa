@@ -1,5 +1,3 @@
-# README
-
 # Hi there, I'm Abenezer 👋
 
 Welcome to my GitHub profile! I am a passionate developer who loves to build web and mobile applications with modern technologies.
