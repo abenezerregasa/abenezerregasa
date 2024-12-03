@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a passionate developer who loves to build web
 ## 🔧 Skills & Technologies
 
 - **Frontend Development**: JavaScript, React.js, Tailwind CSS, CSS, HTML, Vite
-- **Backend Development**: Node.js, Express.js, PHP
+- **Backend Development**: FASTAPI, Node.js, Express.js, PHP
 - **Mobile Development**: Dart, Flutter, Android
 - **Databases**: MySQL, MongoDB
 - **Python Development**: Django, Pandas
