@@ -19,6 +19,6 @@ Feel free to explore my repositories, and if you have any questions or want to c
 
 ## 📣 Let's Connect
 
-- [https://linkedin.com/in/abenezer-regasa-777522306](#)
-- [https://x.com/AbenezerRW](#)
-- [www.weltekji.com](#)
+- [https://linkedin.com/in/abenezerregasa](#)
+- [https://x.com/abenezerregasa](#)
+
