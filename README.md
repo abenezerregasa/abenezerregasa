@@ -73,9 +73,7 @@ Welcome to my GitHub profile! I am a passionate developer who loves to build web
 
 ---
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=abenezerregasa&theme=redical" alt="GitHub Activity Graph"/>
-</p>
+ 
 
 ---
 
