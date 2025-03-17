@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I am a passionate developer who loves to build web
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FASTAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-FF5733?style=for-the-badge&logo=api&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,7 +53,7 @@ Welcome to my GitHub profile! I am a passionate developer who loves to build web
 
 ## ✨ Latest Projects
 
-- 🔥 **Full-Stack Web Applications** using React, Node.js, and Django
+- 🔥 **Full-Stack Web Applications** using React and Node.js
 - 📱 **Mobile Applications** developed with Flutter
 - ⚡ **APIs** built with FASTAPI, REST API, and Express.js
 
