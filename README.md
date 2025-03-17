@@ -1,4 +1,4 @@
-### Hi there, I'm Abenezer 👋
+### Hey there, this is Abenezer Regasa 👋
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
