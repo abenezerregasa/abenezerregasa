@@ -65,8 +65,7 @@ Scalable backend services with improved request handling and efficient database 
 
 ## Professional Links
 - **LinkedIn:** https://linkedin.com/in/abenezerregasa  
-- **Portfolio:** *(add your portfolio link here)*
-
+ 
 ---
 
 ## Professional Statement
