@@ -69,4 +69,4 @@ Scalable backend services with improved request handling and efficient database 
 ---
 
 ## Professional Statement
-> *Software should solve real problems with clarity, efficiency, and long-term reliability.*
+> *Always put God first, and give your best possible effort in everything you build.*
