@@ -1,5 +1,4 @@
-# Abenezer Regasa | Full-Stack Developer
-
+# Abenezer Regasa | Software Developer
 ## Technical Profile
 Full-Stack Developer focused on building scalable web and mobile applications with strong attention to performance, usability, and clean architecture.  
 Experienced in modern frontend frameworks, backend API design, and multi-database integration across academic and real-world projects.
