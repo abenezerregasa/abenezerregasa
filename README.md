@@ -16,14 +16,14 @@ Experienced in modern frontend frameworks, backend API design, and multi-databas
 ### Backend & APIs
 - Python  
 - FastAPI  
-- Node.js  
-- Express.js  
+- NextJS
 - PHP  
 - RESTful API Design  
 
 ### Databases
 - MySQL  
-- MongoDB  
+- MongoDB
+- Supabase
 - Neo4j  
 - Firebase  
 
